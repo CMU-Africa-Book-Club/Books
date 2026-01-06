@@ -200,7 +200,7 @@ export default function MembersPage() {
       </div>
 
       {/* CTA Section */}
-      <section className="bg-gradient-to-r from-red-600 via-red-700 to-red-600 text-white py-16 relative overflow-hidden">
+      {/* <section className="bg-gradient-to-r from-red-600 via-red-700 to-red-600 text-white py-16 relative overflow-hidden">
         <div className="absolute inset-0 opacity-10">
           <div className="absolute top-5 left-20 w-32 h-32 bg-white rounded-full blur-2xl"></div>
           <div className="absolute bottom-5 right-20 w-40 h-40 bg-white rounded-full blur-3xl"></div>
@@ -212,7 +212,7 @@ export default function MembersPage() {
             Apply Now
           </button>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }
